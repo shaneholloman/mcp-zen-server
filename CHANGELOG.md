@@ -2,6 +2,10 @@
 
 <!-- version list -->
 
+## v1.0.0 (2025-10-02)
+
+- Initial Release
+
 ## v5.18.2 (2025-10-02)
 
 ### Bug Fixes
